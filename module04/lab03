@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pearphone</title>
+</head>
+<body>
+    <header>
+        <h1>Pearphone</h1>
+    </header>
 
+    <main>
+        <section>
+            <h2>What is pearphome?</h2>
+            <p>A pearphone is a rip off apple phone</p>
+        </section>
+>
+            <h2>Basketball Images</h2>
+            <figure>
+                <img src="images/pearphone.png" alt="A pearphome" />
+                <figcaption>pearphone - Credit: [Your Name]</figcaption>
+            </figure>
+           
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Basketball Enthusiast</p>
+    </footer>
+</body>
+</html>
