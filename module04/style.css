@@ -12,7 +12,7 @@ nav ul li::marker {
 
 header {
     background-color: #FF00FF;
-    color: pink;
+    color: black;
     padding: 30px;
     text-align: center;
 }
@@ -32,7 +32,7 @@ aside {
 footer {
     clear: both;
     background-color: #000000;
-    color: black;
+    color: white;
     text-align: center;
     padding: 10px;
 }
